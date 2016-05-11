@@ -1,0 +1,6 @@
+arc-theme (20160331+git31+5ec25f4-brew1) UNRELEASED; urgency=low
+
+  * Initial release. Closes: #nnnn
+    <nnnn is the bug number of your ITP>
+
+ -- Zhong Jianxin <azuwis@gmail.com>  Wed, 11 May 2016 15:37:42 +0800
