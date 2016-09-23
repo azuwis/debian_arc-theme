@@ -1,8 +1,9 @@
-arc-theme (20160605+git40+3fd402c-build1) UNRELEASED; urgency=low
+arc-theme (20160605+git57+2fd0b4d-build1) UNRELEASED; urgency=low
 
   * New upstream snapshot.
   * New upstream snapshot.
   * New upstream snapshot.
   * New upstream snapshot.
+  * New upstream snapshot.
 
- -- Zhong Jianxin <debuilder@sa1>  Fri, 16 Sep 2016 23:08:06 +0800
+ -- Zhong Jianxin <debuilder@sa1>  Fri, 23 Sep 2016 09:53:20 +0800
